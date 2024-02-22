@@ -19,12 +19,6 @@ function Education() {
       </div>
       <div className="education-item">
         <hr></hr>
-        <p className="h5">Culinary Arts Certificate</p>
-        <h3 className="lead">George Brown College Toronto, Ontario</h3>
-        <p>December 2017</p>
-      </div>
-      <div className="education-item">
-        <hr></hr>
         <p className="h5">History Studies</p>
         <h3 className="lead">Univesity of Waterloo (Distance Education)</h3>
         <p>Various Courses/Various Years</p>
