@@ -18,7 +18,7 @@ function App() {
             <div className="image-container">
               <img
                 className="img-fluid"
-                src="src/assets/images/Ron_de_Roo_Trip_Director.jpg"
+                src="\Ronald\images\Ron_de_Roo_Trip_Director.jpg"
                 alt="Image of Ron de Roo"
               ></img>
             </div>

@@ -11,7 +11,7 @@ function Profile() {
         </p>
         <a
           className="btn btn-secondary"
-          href="/pdf/Ron_de_Roo_Trip_Director_resume.pdf"
+          href="/Ronald/pdf/Ron_de_Roo_Trip_Director_resume.pdf"
           download="Ron_de_Roo_Trip_Director_resume.pdf"
         >
           Download Resume PDF
